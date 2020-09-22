@@ -1,0 +1,133 @@
+2020-09-11 18:09:25,207-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2020-09-11 18:09:25,917-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2020-09-11 18:09:26,077-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2020-09-11 18:09:26,250-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2020-09-11 18:09:27,175-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2020-09-11 18:09:27,911-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2020-09-11 18:09:28,077-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2020-09-11 18:09:28,256-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2020-09-11 18:09:29,121-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2020-09-11 18:09:30,325-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20109', 'data': None, 'msg': '手机号码格式不正确'}
+2020-09-11 18:09:31,042-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2020-09-11 18:09:33,022-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 1, 'code': '10001', 'data': {'id': 321071, 'regname': '小蜜蜂', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '18201156418', 'leaveamount': '21605.98', 'type': '1', 'regtime': '2020-04-04 18:57:09.0'}, 'msg': '充值成功'}
+2020-09-11 18:09:33,185-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20117', 'data': None, 'msg': '请输入范围在0到50万之间的正数金额'}
+2020-09-11 18:09:33,430-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2020-09-11 18:09:35,362-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 1, 'code': '10001', 'data': {'id': 321071, 'regname': '小蜜蜂', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '18201156418', 'leaveamount': '21706.21', 'type': '1', 'regtime': '2020-04-04 18:57:09.0'}, 'msg': '充值成功'}
+2020-09-11 18:09:35,547-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20109', 'data': None, 'msg': '手机号码格式不正确'}
+2020-09-11 18:18:04,896-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2020-09-11 18:18:05,780-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2020-09-11 18:18:05,981-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2020-09-11 18:18:06,148-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2020-09-11 18:18:07,315-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2020-09-11 18:18:08,280-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2020-09-11 18:18:08,451-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2020-09-11 18:18:08,614-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2020-09-11 18:18:09,748-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2020-09-11 18:18:09,921-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20109', 'data': None, 'msg': '手机号码格式不正确'}
+2020-09-11 18:18:10,918-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2020-09-11 18:18:13,468-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 1, 'code': '10001', 'data': {'id': 321071, 'regname': '小蜜蜂', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '18201156418', 'leaveamount': '22706.21', 'type': '1', 'regtime': '2020-04-04 18:57:09.0'}, 'msg': '充值成功'}
+2020-09-11 18:18:14,641-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20117', 'data': None, 'msg': '请输入范围在0到50万之间的正数金额'}
+2020-09-11 18:18:14,811-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2020-09-11 18:18:17,217-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 1, 'code': '10001', 'data': {'id': 321071, 'regname': '小蜜蜂', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '18201156418', 'leaveamount': '22806.44', 'type': '1', 'regtime': '2020-04-04 18:57:09.0'}, 'msg': '充值成功'}
+2020-09-11 18:18:17,387-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20109', 'data': None, 'msg': '手机号码格式不正确'}
+2020-09-14 10:50:32,630-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2020-09-14 10:50:33,109-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2020-09-14 10:50:33,278-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2020-09-14 10:50:33,436-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2020-09-14 10:50:33,905-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2020-09-14 10:50:34,424-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2020-09-14 10:50:34,595-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2020-09-14 10:50:34,755-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2020-09-14 10:50:35,236-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2020-09-14 10:50:35,406-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20109', 'data': None, 'msg': '手机号码格式不正确'}
+2020-09-14 10:50:35,884-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2020-09-14 10:50:37,067-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 1, 'code': '10001', 'data': {'id': 321071, 'regname': '小蜜蜂', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '18201156418', 'leaveamount': '23806.44', 'type': '1', 'regtime': '2020-04-04 18:57:09.0'}, 'msg': '充值成功'}
+2020-09-14 10:50:37,238-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20117', 'data': None, 'msg': '请输入范围在0到50万之间的正数金额'}
+2020-09-14 10:50:37,406-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2020-09-14 10:50:38,564-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 1, 'code': '10001', 'data': {'id': 321071, 'regname': '小蜜蜂', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '18201156418', 'leaveamount': '23906.67', 'type': '1', 'regtime': '2020-04-04 18:57:09.0'}, 'msg': '充值成功'}
+2020-09-14 10:50:39,749-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20109', 'data': None, 'msg': '手机号码格式不正确'}
+2020-09-14 10:51:55,698-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2020-09-14 10:51:56,201-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2020-09-14 10:51:56,378-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2020-09-14 10:51:56,539-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2020-09-14 10:51:57,014-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2020-09-14 10:51:57,517-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2020-09-14 10:51:57,679-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2020-09-14 10:51:57,841-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2020-09-14 10:51:58,327-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2020-09-14 10:51:58,515-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20109', 'data': None, 'msg': '手机号码格式不正确'}
+2020-09-14 10:51:59,006-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2020-09-14 10:52:00,152-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 1, 'code': '10001', 'data': {'id': 321071, 'regname': '小蜜蜂', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '18201156418', 'leaveamount': '24906.67', 'type': '1', 'regtime': '2020-04-04 18:57:09.0'}, 'msg': '充值成功'}
+2020-09-14 10:52:00,305-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20117', 'data': None, 'msg': '请输入范围在0到50万之间的正数金额'}
+2020-09-14 10:52:00,460-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2020-09-14 10:52:01,604-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 1, 'code': '10001', 'data': {'id': 321071, 'regname': '小蜜蜂', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '18201156418', 'leaveamount': '25006.90', 'type': '1', 'regtime': '2020-04-04 18:57:09.0'}, 'msg': '充值成功'}
+2020-09-14 10:52:01,800-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20109', 'data': None, 'msg': '手机号码格式不正确'}
+2020-09-14 11:48:02,167-DEBUG-My_log.py-python-日志信息:我要放假了！！！
+2020-09-16 17:31:10,977-ERROR-My_log.py-python-日志信息:执行用例出错了'10001' != '20111'
+- 10001
++ 20111
+
+2020-09-16 17:31:11,117-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2020-09-16 17:31:11,598-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2020-09-16 17:36:43,041-ERROR-My_log.py-python-日志信息:执行用例出错了'10001' != '20111'
+- 10001
++ 20111
+
+2020-09-16 17:36:43,140-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2020-09-16 17:36:43,286-ERROR-My_log.py-python-日志信息:执行用例出错了'10001' != None
+2020-09-16 17:36:43,809-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2020-09-17 10:08:04,862-ERROR-My_log.py-python-日志信息:执行用例出错了'10001' != '20111'
+- 10001
++ 20111
+
+2020-09-17 10:08:04,965-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2020-09-17 10:08:05,113-ERROR-My_log.py-python-日志信息:执行用例出错了'10001' != None
+2020-09-17 10:08:05,607-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2020-09-17 15:50:53,441-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2020-09-17 15:50:53,933-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2020-09-17 15:50:54,115-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2020-09-17 15:50:54,285-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2020-09-17 15:50:54,746-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2020-09-17 15:50:55,235-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2020-09-17 15:50:55,406-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2020-09-17 15:50:55,571-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2020-09-17 15:50:56,039-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2020-09-17 15:50:56,209-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20109', 'data': None, 'msg': '手机号码格式不正确'}
+2020-09-17 15:50:56,676-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2020-09-17 15:50:57,869-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 1, 'code': '10001', 'data': {'id': 321071, 'regname': '小蜜蜂', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '18201156418', 'leaveamount': '28006.90', 'type': '1', 'regtime': '2020-04-04 18:57:09.0'}, 'msg': '充值成功'}
+2020-09-17 15:50:58,035-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20117', 'data': None, 'msg': '请输入范围在0到50万之间的正数金额'}
+2020-09-17 15:50:58,209-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2020-09-17 15:50:59,378-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 1, 'code': '10001', 'data': {'id': 321071, 'regname': '小蜜蜂', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '18201156418', 'leaveamount': '28107.13', 'type': '1', 'regtime': '2020-04-04 18:57:09.0'}, 'msg': '充值成功'}
+2020-09-17 15:50:59,548-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20109', 'data': None, 'msg': '手机号码格式不正确'}
+2020-09-18 14:50:18,001-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2020-09-18 14:50:18,516-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2020-09-18 14:50:18,679-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2020-09-18 14:50:18,844-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2020-09-18 14:50:19,325-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2020-09-18 14:50:19,835-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2020-09-18 14:50:20,004-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2020-09-18 14:50:20,178-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2020-09-18 14:50:20,664-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2020-09-18 14:50:20,832-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20109', 'data': None, 'msg': '手机号码格式不正确'}
+2020-09-18 14:50:21,322-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2020-09-18 14:50:22,527-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 1, 'code': '10001', 'data': {'id': 321071, 'regname': '小蜜蜂', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '18201156418', 'leaveamount': '29107.13', 'type': '1', 'regtime': '2020-04-04 18:57:09.0'}, 'msg': '充值成功'}
+2020-09-18 14:50:23,709-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20117', 'data': None, 'msg': '请输入范围在0到50万之间的正数金额'}
+2020-09-18 14:50:23,877-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2020-09-18 14:50:25,085-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 1, 'code': '10001', 'data': {'id': 321071, 'regname': '小蜜蜂', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '18201156418', 'leaveamount': '29207.36', 'type': '1', 'regtime': '2020-04-04 18:57:09.0'}, 'msg': '充值成功'}
+2020-09-18 14:50:25,271-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20109', 'data': None, 'msg': '手机号码格式不正确'}
+2020-09-18 17:42:46,755-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2020-09-18 17:42:50,550-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2020-09-18 17:42:50,733-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2020-09-18 17:42:50,913-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2020-09-18 17:42:51,401-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20111', 'data': None, 'msg': '用户名或密码错误'}
+2020-09-18 17:42:51,878-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2020-09-18 17:42:52,088-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '密码不能为空'}
+2020-09-18 17:42:55,269-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2020-09-18 17:42:55,955-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20110', 'data': None, 'msg': '手机号码已被注册'}
+2020-09-18 17:42:56,141-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20109', 'data': None, 'msg': '手机号码格式不正确'}
+2020-09-18 17:42:56,701-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 1, 'code': '10001', 'data': None, 'msg': '登录成功'}
+2020-09-18 17:42:58,273-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 1, 'code': '10001', 'data': {'id': 321071, 'regname': '小蜜蜂', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '18201156418', 'leaveamount': '30207.36', 'type': '1', 'regtime': '2020-04-04 18:57:09.0'}, 'msg': '充值成功'}
+2020-09-18 17:42:58,443-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20117', 'data': None, 'msg': '请输入范围在0到50万之间的正数金额'}
+2020-09-18 17:42:58,609-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20103', 'data': None, 'msg': '手机号不能为空'}
+2020-09-18 17:43:00,043-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 1, 'code': '10001', 'data': {'id': 321071, 'regname': '小蜜蜂', 'pwd': 'E10ADC3949BA59ABBE56E057F20F883E', 'mobilephone': '18201156418', 'leaveamount': '30307.59', 'type': '1', 'regtime': '2020-04-04 18:57:09.0'}, 'msg': '充值成功'}
+2020-09-18 17:43:00,213-ERROR-My_log.py-python-日志信息:获取的结果是：{'status': 0, 'code': '20109', 'data': None, 'msg': '手机号码格式不正确'}
